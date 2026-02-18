@@ -1,6 +1,6 @@
 > ⚠️   **This script is no longer maintained.**  
 >  
-> I have changed my setup and no longer use the display, so this repository is no longer up to date.
+> I have changed my setup and no longer use the Pimoroni HyperPixel display, so this repository is no longer up to date.
 
 # PADD
 
