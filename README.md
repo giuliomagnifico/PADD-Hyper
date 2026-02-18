@@ -1,3 +1,7 @@
+> ⚠️   **This script is no longer maintained.**  
+>  
+> I have changed my setup and no longer use the display, so this repository is no longer up to date.
+
 # PADD
 
 PADD (formerly Chronometer2) is a more expansive version of the original chronometer.sh that is included with [Pi-Hole](https://pi-hole.net). PADD provides in-depth information about your Pi-hole.
